@@ -1,0 +1,12 @@
+/* subtle tweaks to the Cayman theme */
+body { font-size: 17px; line-height: 1.6; }
+h1, h2, h3 { font-weight: 700; }
+table { width: 100%; }
+
+/* custom.css */
+.avatar {
+  width: 180px;          /* same size you already use */
+  height: 180px;
+  border-radius: 50%;    /* ← this makes it perfectly circular */
+  object-fit: cover;     /* crops if the photo isn’t square */
+}

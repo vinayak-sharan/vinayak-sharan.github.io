@@ -1,0 +1,18 @@
+title: "Vinayak Sharan"
+description: "Machine Learning & Generative‑AI Engineer • Researcher • CTO‑level Technologist"
+# One of GitHub’s built‑in Jekyll themes:
+theme: jekyll-theme-cayman  # alternatives: minimal, slate, architect...
+# Build settings
+markdown: kramdown
+plugins:
+  - jekyll-feed            # RSS/Atom
+  - jekyll-seo-tag         # <meta> for search/OG
+  - jekyll-sitemap         # /sitemap.xml for crawlers
+# Your site’s URL – GitHub injects this automatically in production
+url: "https://vinayak-sharan.github.io"
+# Social handles used by jekyll-seo-tag
+author:
+  name: "Vinayak Sharan"
+  github: https://github.com/vinayak015
+  linkedin: https://www.linkedin.com/in/vinayak-kumar-33b751157/
+  email: vinayaksharan@outlook.com
