@@ -38,7 +38,7 @@ title: Machine Learning Research Engineer
   </video>
 
   <figcaption style="font-size:0.95rem; color:#555;">
-    <strong>Figure&nbsp;1&nbsp;—&nbsp;Gaze Control Demo.</strong>
+    <strong>Video&nbsp;1&nbsp;—&nbsp;Gaze Control Demo.</strong>
     The model steers eye direction smoothly along both the horizontal (x) and vertical (y) axes while keeping facial identity intact.
   </figcaption>
 </figure>
@@ -53,7 +53,7 @@ title: Machine Learning Research Engineer
   </video>
 
   <figcaption style="font-size:0.95rem;color:#555;">
-    <strong>Figure 2 — Source-to-drive face-animation demo.</strong>
+    <strong>Video 2 — Source-to-drive face-animation demo.</strong>
     Left&nbsp;=&nbsp;static source frame, middle&nbsp;=&nbsp;driving video,
     right&nbsp;=&nbsp;model-generated animation that tracks pose and expression
     in real time.
