@@ -48,7 +48,11 @@ title: Machine Learning Research Engineer
   <video controls preload="metadata"
          poster="assets/img/demo-anim.jpg"
          style="max-width:100%; border-radius:8px;">
-    <source src="assets/video/anim.mp4" type="video/mp4">
+        <!-- First choice: small, modern VP9 -->
+        <source src="assets/video/anim.webm" type="video/webm">
+        <!-- Fallback: universal H.264 -->
+        <source src="assets/video/anim_h264.mp4"
+          type='video/mp4; codecs="avc1.42E01E, mp4a.40.2"'>
     Your browser doesn’t support HTML5 video.
   </video>
 
