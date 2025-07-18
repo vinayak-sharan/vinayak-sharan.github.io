@@ -67,13 +67,13 @@ title: Machine Learning Research Engineer
 
 ## 🔧 Core Skills
 
-| Domain                | Highlights                                                         |
-|-----------------------|--------------------------------------------------------------------|
-| Generative Models     | Diffusion, GAN, VAE/VQ-VAE, Transformers, Linear Attention         |
-| Computer Vision       | Real-time gaze & head redirection, ST-GCN action recognition       |
-| Frameworks            | PyTorch / PyTorch3D, TensorFlow, ONNX, Core ML                     |
-| Systems & MLOps       | Multi-GPU/TPU training, custom CUDA, Core ML/ANE optimisation      |
-| Languages & Tools     | Python, Bash, C++ (basic), Git, Docker, GCP                       |
+| Domain                | Highlights                                                                                                      |
+|-----------------------|-----------------------------------------------------------------------------------------------------------------|
+| Generative Models     | Diffusion, GAN, VAE/VQ-VAE, Transformers, Linear Attention                                                      |
+| Computer Vision       | Real-time gaze & head redirection, ST-GCN action recognition, Object Detection, Segmentation, Optical Flow, etc |
+| Frameworks            | PyTorch / PyTorch3D, TensorFlow, ONNX, Core ML                                                                  |
+| Systems & MLOps       | Multi-GPU/TPU training, custom CUDA, Core ML/ANE optimisation                                                   |
+| Languages & Tools     | Python, Bash, C++ (basic), Git, Docker, GCP                                                                     |
 
 ---
 
